@@ -6,7 +6,7 @@
 
 ## 📱 Download for Android
 
-👉 **[Download the Latest APK (v1.0.0)](https://github.com/maksudpranto/trip-track-app/releases/latest)**
+👉 **[Download the Latest APK (v1.0.2)](https://github.com/maksudpranto/trip-track-app/releases/latest)**
 
 ---
 
